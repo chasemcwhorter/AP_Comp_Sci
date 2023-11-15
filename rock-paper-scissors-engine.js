@@ -1,3 +1,8 @@
+/**
+ * Rock, Paper, Scissors Application
+ * @class AP Comp Sci
+ */
+
 // player 1
 
 var p1 = {
